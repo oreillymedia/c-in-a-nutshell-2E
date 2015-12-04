@@ -1,7 +1,7 @@
 C in a Nutshell, 2e
 ==========
 
-This is the example code [files to come shortly] that accompanies C in a Nutshell, 2e by AUTHOR (9781491904756). 
+This is the example code that accompanies C in a Nutshell, 2e by Peter Prinz and Tony Crawford (9781491904756). 
 
 Click the Download Zip button to the right to download example code.
 
